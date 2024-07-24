@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/pkgs_python/pkgs_python.egg-info/PKG-INFO
+../../build/pkgs_python/pkgs_python.egg-info/SOURCES.txt
+../../build/pkgs_python/pkgs_python.egg-info/dependency_links.txt
+../../build/pkgs_python/pkgs_python.egg-info/entry_points.txt
+../../build/pkgs_python/pkgs_python.egg-info/requires.txt
+../../build/pkgs_python/pkgs_python.egg-info/top_level.txt
+../../build/pkgs_python/pkgs_python.egg-info/zip-safe
+pkgs_python/__init__.py
+pkgs_python/odom_pub.py
+resource/pkgs_python
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

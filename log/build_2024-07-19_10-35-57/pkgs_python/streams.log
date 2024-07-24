@@ -1,0 +1,21 @@
+[0.595s] Invoking command in '/home/farog/ros2_ws/src/pkgs_python': PYTHONPATH=/home/farog/ros2_ws/build/pkgs_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pkgs_python build --build-base /home/farog/ros2_ws/build/pkgs_python/build install --record /home/farog/ros2_ws/build/pkgs_python/install.log --single-version-externally-managed install_data
+[0.803s] running egg_info
+[0.812s] writing ../../build/pkgs_python/pkgs_python.egg-info/PKG-INFO
+[0.813s] writing dependency_links to ../../build/pkgs_python/pkgs_python.egg-info/dependency_links.txt
+[0.814s] writing entry points to ../../build/pkgs_python/pkgs_python.egg-info/entry_points.txt
+[0.814s] writing requirements to ../../build/pkgs_python/pkgs_python.egg-info/requires.txt
+[0.814s] writing top-level names to ../../build/pkgs_python/pkgs_python.egg-info/top_level.txt
+[0.914s] reading manifest file '../../build/pkgs_python/pkgs_python.egg-info/SOURCES.txt'
+[0.914s] writing manifest file '../../build/pkgs_python/pkgs_python.egg-info/SOURCES.txt'
+[0.915s] running build
+[0.915s] running build_py
+[0.915s] running install
+[0.918s] running install_lib
+[0.929s] running install_data
+[0.929s] running install_egg_info
+[0.940s] removing '/home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages/pkgs_python-0.0.0-py3.10.egg-info' (and everything under it)
+[0.941s] Copying ../../build/pkgs_python/pkgs_python.egg-info to /home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages/pkgs_python-0.0.0-py3.10.egg-info
+[0.943s] running install_scripts
+[0.978s] Installing pub_odom script to /home/farog/ros2_ws/install/pkgs_python/lib/pkgs_python
+[0.982s] writing list of installed files to '/home/farog/ros2_ws/build/pkgs_python/install.log'
+[1.003s] Invoked command in '/home/farog/ros2_ws/src/pkgs_python' returned '0': PYTHONPATH=/home/farog/ros2_ws/build/pkgs_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pkgs_python build --build-base /home/farog/ros2_ws/build/pkgs_python/build install --record /home/farog/ros2_ws/build/pkgs_python/install.log --single-version-externally-managed install_data

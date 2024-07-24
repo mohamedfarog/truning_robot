@@ -1,0 +1,2 @@
+[console_scripts]
+pub_odom = pkgs_python.odom_pub:main

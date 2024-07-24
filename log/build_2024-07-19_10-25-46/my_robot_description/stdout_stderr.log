@@ -1,0 +1,68 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/farog/ros2_ws/build/my_robot_description
+-- Install configuration: ""
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/diff_drive_control_plugin.xacro
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/laser.xacro
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/navcon_control.xacro
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/camera.xacro
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/latest
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/build_2023-11-07_05-07-04
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/build_2023-11-07_05-07-04/logger_all.log
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/build_2023-11-07_05-07-04/events.log
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/log/latest_build
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/build
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/build/.built_by
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/build/COLCON_IGNORE
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.ps1
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.zsh
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.zsh
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/.colcon_install_layout
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.bash
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.ps1
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.sh
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/local_setup.sh
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/setup.bash
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/_local_setup_util_sh.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/_local_setup_util_ps1.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/install/COLCON_IGNORE
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//launch
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//rviz
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description//config
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+-- Installing: /home/farog/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml

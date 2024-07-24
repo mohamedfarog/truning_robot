@@ -1,0 +1,67 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/farog/ros2_ws/build/my_robot_bringup
+-- Install configuration: ""
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/online_async_launch.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/joystick.launch.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/navigation_launch.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/loca_launch1.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/launch_robot.launch.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/localization_launch.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/display.launch.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//rviz
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//rviz/urdff_config.rviz
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//worlds
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//worlds/my_floor.world
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/joystick.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/nav2_params.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/ekf.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/nav2_params2.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/ekf.launch.py
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/twist_mux.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/mapper_params_online_async.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon_training.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon2s.posegraph
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon2.pgm
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon1.pgm
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon_training.pgm
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon_map2.pgm
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon2s.data
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon_serialize2.posegraph
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon_serialize2.data
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon1.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon2.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//maps/navcon_map2.yaml
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+-- Installing: /home/farog/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml

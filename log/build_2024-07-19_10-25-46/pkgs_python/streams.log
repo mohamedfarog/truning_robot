@@ -1,0 +1,37 @@
+[0.627s] Invoking command in '/home/farog/ros2_ws/src/pkgs_python': PYTHONPATH=/home/farog/ros2_ws/build/pkgs_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pkgs_python build --build-base /home/farog/ros2_ws/build/pkgs_python/build install --record /home/farog/ros2_ws/build/pkgs_python/install.log --single-version-externally-managed install_data
+[0.858s] running egg_info
+[0.858s] creating ../../build/pkgs_python/pkgs_python.egg-info
+[0.869s] writing ../../build/pkgs_python/pkgs_python.egg-info/PKG-INFO
+[0.870s] writing dependency_links to ../../build/pkgs_python/pkgs_python.egg-info/dependency_links.txt
+[0.870s] writing entry points to ../../build/pkgs_python/pkgs_python.egg-info/entry_points.txt
+[0.870s] writing requirements to ../../build/pkgs_python/pkgs_python.egg-info/requires.txt
+[0.871s] writing top-level names to ../../build/pkgs_python/pkgs_python.egg-info/top_level.txt
+[0.871s] writing manifest file '../../build/pkgs_python/pkgs_python.egg-info/SOURCES.txt'
+[0.976s] reading manifest file '../../build/pkgs_python/pkgs_python.egg-info/SOURCES.txt'
+[0.976s] writing manifest file '../../build/pkgs_python/pkgs_python.egg-info/SOURCES.txt'
+[0.976s] running build
+[0.976s] running build_py
+[0.976s] creating /home/farog/ros2_ws/build/pkgs_python/build
+[0.976s] creating /home/farog/ros2_ws/build/pkgs_python/build/lib
+[0.977s] creating /home/farog/ros2_ws/build/pkgs_python/build/lib/pkgs_python
+[0.977s] copying pkgs_python/__init__.py -> /home/farog/ros2_ws/build/pkgs_python/build/lib/pkgs_python
+[0.977s] copying pkgs_python/odom_pub.py -> /home/farog/ros2_ws/build/pkgs_python/build/lib/pkgs_python
+[0.980s] running install
+[0.983s] running install_lib
+[0.995s] creating /home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages/pkgs_python
+[0.995s] copying /home/farog/ros2_ws/build/pkgs_python/build/lib/pkgs_python/__init__.py -> /home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages/pkgs_python
+[0.995s] copying /home/farog/ros2_ws/build/pkgs_python/build/lib/pkgs_python/odom_pub.py -> /home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages/pkgs_python
+[0.996s] byte-compiling /home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages/pkgs_python/__init__.py to __init__.cpython-310.pyc
+[0.996s] byte-compiling /home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages/pkgs_python/odom_pub.py to odom_pub.cpython-310.pyc
+[0.997s] running install_data
+[0.997s] creating /home/farog/ros2_ws/install/pkgs_python/share/ament_index
+[0.997s] creating /home/farog/ros2_ws/install/pkgs_python/share/ament_index/resource_index
+[0.997s] creating /home/farog/ros2_ws/install/pkgs_python/share/ament_index/resource_index/packages
+[0.997s] copying resource/pkgs_python -> /home/farog/ros2_ws/install/pkgs_python/share/ament_index/resource_index/packages
+[0.997s] copying package.xml -> /home/farog/ros2_ws/install/pkgs_python/share/pkgs_python
+[0.998s] running install_egg_info
+[1.009s] Copying ../../build/pkgs_python/pkgs_python.egg-info to /home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages/pkgs_python-0.0.0-py3.10.egg-info
+[1.012s] running install_scripts
+[1.050s] Installing pub_odom script to /home/farog/ros2_ws/install/pkgs_python/lib/pkgs_python
+[1.050s] writing list of installed files to '/home/farog/ros2_ws/build/pkgs_python/install.log'
+[1.066s] Invoked command in '/home/farog/ros2_ws/src/pkgs_python' returned '0': PYTHONPATH=/home/farog/ros2_ws/build/pkgs_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/farog/ros2_ws/install/pkgs_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/pkgs_python build --build-base /home/farog/ros2_ws/build/pkgs_python/build install --record /home/farog/ros2_ws/build/pkgs_python/install.log --single-version-externally-managed install_data
